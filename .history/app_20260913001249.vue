@@ -60,7 +60,7 @@ const faqs = [
         </div>
 
         <div class="dashboard-frame" aria-label="RoleNest application dashboard preview">
-          <div class="frame-bar"><span></span><span></span><span></span><p>app.rolenest.co</p></div>
+          <div class="frame-bar"><span></span><span></span><span></span><p>app.RroleNest.co</p></div>
           <div class="dash">
             <aside class="dash-side">
               <div class="mini-brand"><b>N</b></div>
